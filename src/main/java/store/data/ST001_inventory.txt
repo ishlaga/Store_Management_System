@@ -1,0 +1,6 @@
+P001,Milk,3.99,96,Dairy Farm,2024-05-15
+P003,Eggs,4.99,80,Happy Hens,2024-04-30
+P002,Bread,2.49,193,Local Bakery,2024-04-20
+P01003,Butter,3.49,20,Butter Co,2024-12-01
+P01002,Bread,2.99,50,Baker's Delight,2024-11-20
+P01001,Milk,4.29,40,Dairy Farm,2024-11-25

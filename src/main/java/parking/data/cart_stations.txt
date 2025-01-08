@@ -1,0 +1,6 @@
+StationID | Location | Capacity | CurrentCarts | Status    | LastCollected       |
+--------------------------------------------------------------------------------
+CS1       | A1-North | 20       | 15          | Normal    | 2024-04-19 09:45:00 |
+CS2       | A2-South | 20       | 18          | High      | 2024-04-19 09:30:00 |
+CS3       | B1-East  | 25       | 10          | Normal    | 2024-04-19 09:15:00 |
+CS4       | B2-West  | 25       | 20          | High      | 2024-04-19 09:00:00 |

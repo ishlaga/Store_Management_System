@@ -1,0 +1,3 @@
+P01001,Milk,4.29,40,Dairy Farm,2024-11-25
+P01002,Bread,2.99,50,Baker's Delight,2024-11-20
+P01003,Butter,3.49,20,Butter Co,2024-12-01

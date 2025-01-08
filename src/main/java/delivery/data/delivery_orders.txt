@@ -1,0 +1,5 @@
+2 | Jane Smith | 456 Park Ave, Town | 2345678901 | 2024-04-20 14:00:00 | STAFF2 | DELIVERED |
+3 | Bob Johnson | 789 Oak Rd, Village | 3456789012 | 2024-04-21 09:00:00 | STAFF1 | EN_ROUTE |
+4 | raghu | ss | 4 | 2002-02-11 12:00:00 | 22 | DELIVERED |
+4 | raghu | 246 | 5157157755 | 2024-12-11 12:00:00 | CSA001 | PENDING |
+5 | esh | 22 | 5 | 2024-11-11 12:00:00 | CSA002 | DELIVERED |

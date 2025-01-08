@@ -1,0 +1,3 @@
+EMP001,John Smith,15.00
+EMP002,Jane Doe,18.00
+EMP003,Bob Wilson,20.00

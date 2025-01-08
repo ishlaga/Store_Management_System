@@ -1,0 +1,6 @@
+ID | PatientName | Date | TimeSlot | Optometrist | Status | Contact | TestType | Notes | PrescriptionIssued |
+------------------------------------------------------------------------------------------------------------------------
+1|John Smith|2024-04-19|09:00|Dr. Smith|Completed|555-0101|Standard Eye Test|None|true|
+2|Mary Johnson|2024-04-19|10:30|Dr. Smith|Scheduled|555-0102|Contact Fitting||false|
+3|David Wilson|2024-04-19|14:00|Dr. Smith|Cancelled|555-0103|Children's Test||false|
+4|Sarah Brown|2024-04-19|15:30|Dr. Smith|Scheduled|555-0104|Standard Eye Test||false|

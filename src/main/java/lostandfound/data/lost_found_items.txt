@@ -1,0 +1,6 @@
+ID | Type | Description          | Status     | ReportDate          | Location    | ContactInfo    |
+------------------------------------------------------------------------------------------------
+1  | Lost | Blue Nike Wallet    | Pending    | 2024-04-19 10:00:00 | Food Court  | 555-0101      |
+2  | Found| Black Samsung Phone | Matched    | 2024-04-19 11:30:00 | Aisle 5     | 555-0102      |
+3  | Lost | Red Baby Stroller  | Matched    | 2024-04-19 12:15:00 | Parking     | 555-0103      |
+4  | Found| Gray Umbrella      | Unclaimed  | 2024-04-19 13:00:00 | Entrance    | Staff         |

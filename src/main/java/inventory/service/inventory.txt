@@ -1,0 +1,6 @@
+P005,Yogurt,1.99,40,Dairy Farm,2024-04-25
+P004,Cheese,5.99,-1,Dairy Farm,2024-06-01
+P006,Butter,20.00,200,Amul,2025-05-06
+P001,Milk,3.99,50,Dairy Farm,2024-05-01
+P003,Eggs,4.99,100,Happy Hens,2024-04-20
+P002,Bread,2.49,30,Local Bakery,2024-04-15

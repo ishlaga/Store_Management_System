@@ -1,0 +1,2 @@
+E001,John Doe,15.00
+E002,Jane Smith,18.00

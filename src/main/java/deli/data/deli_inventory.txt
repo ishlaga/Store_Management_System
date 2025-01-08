@@ -1,0 +1,7 @@
+ItemID | Name | PricePerUnit | UnitType | StockLevel | Allergens
+----------------------------------------------------------------------
+D001|Turkey Slices|8.99|lb|50|None
+D002|Cheddar Cheese|5.49|lb|30|Milk, Lactose
+D003|Prepared Pizza|12.00|each|10|Wheat, Milk, Soy
+D004|Burger Patty|2.50|each|20|Soy
+D005|Sandwich Bread|3.00|loaf|10|Wheat, Soy

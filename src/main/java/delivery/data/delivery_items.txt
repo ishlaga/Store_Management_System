@@ -1,0 +1,7 @@
+OrderID | ItemID | Description          | Condition | isDamaged |
+----------------------------------------------------------------|
+1       | TV01   | 55" LED TV          | Good      | false     |
+1       | FR02   | French Door Fridge  | Good      | false     |
+2       | SF01   | Leather Sofa        | Good      | false     |
+3       | WM01   | Washing Machine     | Good      | false     |
+3       | DR01   | Clothes Dryer       | Good      | false     |

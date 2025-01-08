@@ -1,0 +1,6 @@
+P101,High-End Electronics,ELECTRONICS,2
+P102,Premium Liquor,ALCOHOL,3
+P103,Prescription Medicines,PHARMACY,3
+P104,Expensive Jewelry,VALUABLES,2
+P105,Tobacco Products,TOBACCO,2
+P106,High-Value Gift Cards,VALUABLES,1

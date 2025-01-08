@@ -1,0 +1,9 @@
+Sales Report for Store: ST001
+Period: 2024-11-07 to 2024-11-07
+Total Revenue: $151.16
+Total Units Sold: 34
+
+Product Sales Breakdown:
+Milk (P001): 11 units, $43.89
+Eggs (P003): 20 units, $99.80
+Bread (P002): 3 units, $7.47

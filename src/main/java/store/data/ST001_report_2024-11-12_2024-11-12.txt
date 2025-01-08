@@ -1,0 +1,7 @@
+Sales Report for Store: ST001
+Period: 2024-11-12 to 2024-11-12
+Total Revenue: $29.88
+Total Units Sold: 12
+
+Product Sales Breakdown:
+Bread (P002): 12 units, $29.88

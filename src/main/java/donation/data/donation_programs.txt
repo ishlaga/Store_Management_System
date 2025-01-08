@@ -1,0 +1,5 @@
+ID | CharityName           | Goal                    | Timeline      | Status     | Items                | Value  |
+----------------------------------------------------------------------------------------------------------------
+1  | Food Bank            | Surplus Food Drive      | 2024-04-30   | Active     | Canned goods, Rice   | 1500   |
+2  | Local Shelter        | Winter Clothing         | 2024-05-15   | Pending    | Blankets, Coats      | 2000   |
+3  | Children's Home      | Back to School          | 2024-06-01   | Completed  | Books, Supplies      | 1000   |

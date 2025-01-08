@@ -1,0 +1,8 @@
+MED001,Aspirin,OTC,9.99,100,2025-12-31T23:59:59,Bayer,Take with food,20
+MED002,Ibuprofen,OTC,12.99,85,2025-06-30T23:59:59,Advil,Take with water,15
+MED003,Amoxicillin,PRESCRIPTION,25.99,50,2024-12-31T23:59:59,Pfizer,Complete full course,10
+MED004,Lisinopril,PRESCRIPTION,30.99,40,2025-03-31T23:59:59,Merck,Take as directed,8
+MED005,Metformin,PRESCRIPTION,28.99,60,2024-09-30T23:59:59,GSK,Take with meals,12
+MED006,Acetaminophen,OTC,8.99,120,2025-09-30T23:59:59,Tylenol,Do not exceed recommended dose,25
+MED007,Omeprazole,OTC,15.99,75,2025-01-31T23:59:59,Prilosec,Take before meals,15
+MED008,Cetirizine,OTC,11.99,90,2024-12-31T23:59:59,Zyrtec,May cause drowsiness,18

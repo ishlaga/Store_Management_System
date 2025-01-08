@@ -1,0 +1,18 @@
+Pharmacy Analytics Report
+Generated: 2024-11-19T18:53:03.823365
+
+Inventory Status:
+Aspirin: 80 units in stock (Min: 20)
+Amoxicillin: 80 units in stock (Min: 10)
+Ibuprofen: 85 units in stock (Min: 15)
+Metformin: 60 units in stock (Min: 12)
+Lisinopril: 40 units in stock (Min: 8)
+Omeprazole: 75 units in stock (Min: 15)
+Acetaminophen: 120 units in stock (Min: 25)
+Cetirizine: 90 units in stock (Min: 18)
+
+Expiring Medications:
+Amoxicillin expires on 2024-12-31T23:59:59
+Metformin expires on 2024-09-30T23:59:59
+Omeprazole expires on 2025-01-31T23:59:59
+Cetirizine expires on 2024-12-31T23:59:59

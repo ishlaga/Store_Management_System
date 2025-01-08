@@ -1,0 +1,6 @@
+Sales Report for Store: ST001
+Period: 2024-07-11 to 2024-07-11
+Total Revenue: $0.00
+Total Units Sold: 0
+
+Product Sales Breakdown:

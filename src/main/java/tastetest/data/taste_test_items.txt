@@ -1,0 +1,7 @@
+ID | ProductName | Category | Status | TestDate | Location | Staff | Participants | AvgRating | R1 | R2 | R3 | R4 | R5 |
+------------------------------------------------------------------------------------------------------------------------
+1|Organic Juice|Beverages|Active|2024-04-19 10:00:00|Aisle 3|John|15|4.2|0|1|2|7|5|
+2|New Cheese Blend|Dairy|Active|2024-04-19 11:30:00|Deli|Sarah|22|3.8|1|2|5|10|4|
+3|Gluten-Free Bread|Bakery|Completed|2024-04-19 12:15:00|Bakery|Mike|30|4.5|0|1|2|8|19|
+4|Energy Bar|Health Foods|Active|2024-04-19 13:00:00|Front|Lisa|18|3.9|1|1|4|8|4|
+5|grape|fruit|Completed|2024-12-09 21:29:02|Back|Ragu|1|5.0|0|0|0|0|1|

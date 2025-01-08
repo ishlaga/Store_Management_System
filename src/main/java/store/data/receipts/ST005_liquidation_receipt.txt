@@ -1,0 +1,3 @@
+Liquidation Receipt for Store ID: ST005
+Total Amount Returned: $390.90
+Date: 2024-12-03

@@ -1,0 +1,6 @@
+ReceiptID | Items                                 | TotalAmount
+------------------------------------------------------------
+R001      | Milk, Bread, Eggs                     | 12.50
+R002      | Soda, Chips, Chocolate                | 7.25
+R003      | TV, Refrigerator, Sofa                | 1500.00
+R004      | Apple, Banana, Cereal, Yogurt, Cheese | 25.40

@@ -1,0 +1,12 @@
+Return Analytics Report for Store: ST002
+Generated on: 2024-11-12 17:28:33
+--------------------------------------------------
+
+Returns by Category:
+
+Top 5 Most Returned Products:
+
+Cost Analysis:
+Total Return Cost: $0.00
+
+--------------------------------------------------

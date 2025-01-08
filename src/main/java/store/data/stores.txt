@@ -1,0 +1,4 @@
+ST001,Downtown Grocery,123 Main St,2024-01-15
+ST002,Uptown Market,456 High St,2024-02-20
+ST003,Riverside Store,789 River Rd,2024-03-10
+ST004,Ak Stores,New York,2023-11-11

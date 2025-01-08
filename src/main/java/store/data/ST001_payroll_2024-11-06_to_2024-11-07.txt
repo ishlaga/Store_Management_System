@@ -1,0 +1,15 @@
+Payroll Report: 2024-11-06 to 2024-11-07
+----------------------------------------
+Employee: John Smith (EMP001)
+Hours Worked: 0.00
+Total Pay: $0.00
+
+Employee: Jane Doe (EMP002)
+Hours Worked: 0.00
+Total Pay: $0.00
+
+Employee: Bob Wilson (EMP003)
+Hours Worked: 0.00
+Total Pay: $0.00
+
+Total Payroll: $0.00

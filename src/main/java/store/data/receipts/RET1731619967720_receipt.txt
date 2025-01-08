@@ -1,0 +1,21 @@
+=================================================
+                 RETURN RECEIPT                   
+=================================================
+
+Return ID: RET1731619967720
+Original Order ID: 1
+Date: 2024-11-14 15:32:47
+
+Items Returned:
+--------------------------------------------------
+Milk                           x10
+  Unit Price: $3.99      Subtotal: $39.90   
+
+--------------------------------------------------
+Total Refund Amount: $39.90
+Refund Method: CASH
+
+Status: Pending Approval
+
+Thank you for shopping with us!
+=================================================

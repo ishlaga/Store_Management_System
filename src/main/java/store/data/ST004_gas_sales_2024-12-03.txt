@@ -1,0 +1,17 @@
+Gas Station Sales Report for Store: ST004
+Generated on: 2024-12-03 16:32:50
+
+Current Fuel Stock Levels:
+--------------------------------------------------
+Regular (87): 1000.00 gallons
+Plus (89): 1000.00 gallons
+Premium (93): 1000.00 gallons
+
+Today's Transactions:
+--------------------------------------------------
+Transaction GAS1733265007865: Regular - 2.00 gallons - $6.98
+
+Summary:
+Total Transactions: 1
+Total Gallons Sold: 2.00
+Total Revenue: $6.98

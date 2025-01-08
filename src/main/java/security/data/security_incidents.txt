@@ -1,0 +1,10 @@
+ID | Description                 | Severity  | Timestamp           | Status
+---------------------------------------------------------------------------------
+1  | Unauthorized Access         | High      | 2024-04-01 10:30:00 | Not Resolved
+2  | Theft Attempt               | Severe    | 2024-04-01 11:00:00 | Not Resolved
+3  | False Alarm                 | Low       | 2024-04-01 12:00:00 | Resolved
+4  | Employee Misconduct         | Medium    | 2024-04-01 13:00:00 | Not Resolved
+5  | Unauthorized Access Attempt | High      | 2024-04-02 09:00:00 | Not Resolved
+6  | Theft Report                | Severe    | 2024-04-02 10:00:00 | Resolved
+7  | Employee Misconduct         | Medium    | 2024-04-02 11:00:00 | Not Resolved
+8  | False Alarm Triggered       | Low       | 2024-04-02 12:00:00 | Resolved

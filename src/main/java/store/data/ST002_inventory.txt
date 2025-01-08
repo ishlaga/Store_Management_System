@@ -1,0 +1,18 @@
+P005,Yogurt,3.49,35,Dairy Fresh,2024-12-01
+P004,Cheese,6.99,5,Cheese Co,2024-12-10
+P001,Milk,4.29,40,Dairy Farm,2024-11-25
+PRD-TZ1X,Butter Milk,5.00,5,Amul,2025-05-19
+P00109,Cereal,5.49,25,Breakfast Best,2025-03-20
+P00107,Toothpaste,4.99,45,Dental Fresh,2025-08-15
+P00108,Chips,3.99,60,Snack Co,2024-11-08
+P00105,Ice Cream,6.49,15,Creamy Delights,2024-11-01
+P00204,Test Product,20.00,20,Test supp,2025-05-12
+P00106,Shampoo,12.99,20,Hair Care Plus,2025-12-31
+P00103,Fresh Bread,3.99,25,Baker's Best,2024-11-15
+P00104,Eggs,5.99,30,Farm Fresh,2024-12-05
+P00101,Hair Gel,22.00,14,Ulta Beauty,2025-05-11
+P00112,Energy Drink,3.99,50,Power Up,2025-06-30
+P00200,Beard Oil,18.00,2,Men and Co,2025-05-11
+P00102,Protein Bar,5.00,100,Barbell,2024-11-29
+P00110,Canned Soup,2.99,80,Soup Masters,2025-10-15
+P00111,Fresh Salad,4.99,10,Green Foods,2024-11-13

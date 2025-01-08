@@ -1,0 +1,6 @@
+ID | Status    | CashLevel | TransactionStatus | LastMaintenance     | NeedsAssistance |
+--------------------------------------------------------------------------------
+SC1| Active    | Normal    | InProgress        | 2024-04-19 08:00:00 | false          |
+SC2| Active    | Low       | Idle              | 2024-04-19 08:00:00 | false          |
+SC3| Active    | Normal    | AgeVerification   | 2024-04-19 08:00:00 | true           |
+SC4| Inactive  | Normal    | Error             | 2024-04-19 07:00:00 | true           |

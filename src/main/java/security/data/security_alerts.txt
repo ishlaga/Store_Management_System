@@ -1,0 +1,12 @@
+1,Camera Malfunction,High,2024-04-01 09:00:00
+2,Motion Detected in Restricted Area,Severe,2024-04-01 10:00:00
+3,Door Left Open,Medium,2024-04-01 11:30:00
+4,Unusual Activity in Parking Lot,High,2024-04-01 12:15:00
+5,Unauthorized Access,High,2024-04-01 10:30:00,Not Resolved
+6,Theft Attempt,Severe,2024-04-01 11:00:00,Not Resolved
+7,False Alarm,Low,2024-04-01 12:00:00,Resolved
+8,Employee Misconduct,Medium,2024-04-01 13:00:00,Not Resolved
+9,Unauthorized Access Attempt,High,2024-04-02 09:00:00,Not Resolved
+10,Theft Report,Severe,2024-04-02 10:00:00,Resolved
+11,Employee Misconduct,Medium,2024-04-02 11:00:00,Not Resolved
+12,False Alarm Triggered,Low,2024-04-02 12:00:00,Resolved

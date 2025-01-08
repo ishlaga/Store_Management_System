@@ -1,0 +1,57 @@
+Energy Consumption Report
+------------------------
+Store ID: ST002
+Generated on: 2024-12-10 01:10
+
+Consumption by Device Type:
+---------------------------
+HVAC:
+  Total Consumption: 335.60 kWh
+  Number of Readings: 7
+  Average per Reading: 47.94 kWh
+
+Lighting:
+  Total Consumption: 129.70 kWh
+  Number of Readings: 6
+  Average per Reading: 21.62 kWh
+
+Refrigeration:
+  Total Consumption: 826.90 kWh
+  Number of Readings: 7
+  Average per Reading: 118.13 kWh
+
+Lighting :
+  Total Consumption: 42.50 kWh
+  Number of Readings: 1
+  Average per Reading: 42.50 kWh
+
+Other:
+  Total Consumption: 48.00 kWh
+  Number of Readings: 1
+  Average per Reading: 48.00 kWh
+
+
+Summary:
+--------
+Total Consumption: 1382.70 kWh
+Estimated Cost: $165.92
+
+Alert Analysis:
+--------------
+Alert Status Summary:
+  IN_PROGRESS: 1
+  RESOLVED: 1
+  PENDING: 1
+
+Detailed Alerts:
+  HVAC_02: ENERGY_SPIKE (2024-02-01 16:00) - IN_PROGRESS
+  REF_02: ENERGY_SPIKE (2024-02-01 12:00) - RESOLVED
+  LIGHT_02: ENERGY_SPIKE (2024-02-01 16:00) - PENDING
+
+Recommendations:
+----------------
+- Schedule maintenance check for refrigeration units
+- Consider upgrading to energy-efficient refrigeration systems
+- Regular maintenance of all equipment is recommended
+- Consider implementing an energy management system
+- Train staff on energy-saving practices

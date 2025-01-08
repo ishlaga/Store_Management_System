@@ -1,0 +1,4 @@
+
+Trainee Name: Trainee Name, Module Name: Java Basics, Date: 2024-12-10, Status: Completed
+Trainee Name: Trainee Name, Module Name: Inventory Management, Date: 2024-12-10, Status: Completed
+Trainee Name: Eshanth reddy, Module Name: Inventory Management, Date: 2024-12-10, Status: Completed

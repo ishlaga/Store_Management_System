@@ -1,0 +1,14 @@
+Return Analytics Report for Store: ST001
+Generated on: 2024-11-12 15:41:46
+--------------------------------------------------
+
+Returns by Category:
+Milk                : 20 items
+
+Top 5 Most Returned Products:
+Milk                 (ID: P001)
+
+Cost Analysis:
+Total Return Cost: $79.80
+
+--------------------------------------------------

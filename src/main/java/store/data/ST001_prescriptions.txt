@@ -1,0 +1,3 @@
+RX001,PAT001,Amoxicillin,500mg,30,Take 1 capsule 3 times daily,Dr. Smith,2024-12-31T23:59:59,true,BlueCross,45.99
+RX002,PAT002,Lisinopril,10mg,90,Take 1 tablet daily,Dr. Johnson,2024-12-31T23:59:59,true,Aetna,30.99
+RX003,PAT003,Metformin,1000mg,60,Take with meals,Dr. Brown,2024-12-31T23:59:59,true,UnitedHealth,28.99
